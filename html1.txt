@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+<body style="background-color:red;">
+<h2 style="background-color:pink;">WELCOME TO SMART TUBE</h2>
+<p style="background-color:yellow;">You can watch videos of your interest here.</p>
+ <p style="background-color:skyblue;">in order to proceed click on continue.</p>
+    <button type="button">Continue!</button><br>
+<img style="-webkit-user-select: none; cursor: -webkit-zoom-in;" src="http://rtv_news.s3.amazonaws.com/wp-content/uploads/2013/09/MJ-wallpapers-michael-jackson-31128130-1600-1200.jpg" width="200" height="100">
+
+
+</body>
+</html>

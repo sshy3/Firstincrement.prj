@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:pink;">
+    <h1><i>REGISTRATION PAGE</i></h1>
+<form>
+First name: <input type="text" name="firstname"><br><br>
+Last name: <input type="text" name="lastname"><br><br>
+group name: <input type="text" name="groupname"><br><br>
+group key :<input type="text" name="group key"><br><br>
+<button type="button">Register!</button><br>
+</form>
+
+</body>
+</html>
